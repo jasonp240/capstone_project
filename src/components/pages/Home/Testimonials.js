@@ -10,29 +10,25 @@ const customers = [
     fullName: 'Maria Sanchez',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Little Lemon is a hidden gem in Chicago—every dish is bursting with flavor and feels like a warm hug from the Mediterranean!`,
   },
   {
     fullName: 'Antony Clifton',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `The perfect blend of tradition and innovation, Little Lemon’s food is fresh, vibrant, and absolutely unforgettable`,
   },
   {
     fullName: 'Tamika Jackson',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `From the cozy atmosphere to the mouthwatering baklava, Little Lemon is a dining experience you’ll want to repeat again and again.`,
   },
   {
     fullName: 'Brandon Ming',
     image: customer4Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Little Lemon doesn’t just serve food—it serves memories, with every bite taking you on a journey to the heart of the Mediterranean.`,
   },
 ];
 
